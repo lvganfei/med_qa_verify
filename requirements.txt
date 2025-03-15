@@ -1,0 +1,9 @@
+-i https://mirrors.aliyun.com/pypi/simple
+beautifulsoup4 == 4.13.3
+requests == 2.27.1
+numpy
+pandas
+bert_score
+transformers
+scikit-learn
+lxml  
